@@ -26,3 +26,19 @@ print("Standard Deviation", std)
 
 print("Normalized Array")
 print(normalized)
+
+
+"""
+Output:
+    2 3
+    1 2 3
+    4 5 6
+    Original Array:
+    [[1. 2. 3.]
+    [4. 5. 6.]]
+    Mean 3.5
+    Standard Deviation 1.707825127659933
+    Normalized Array
+    [[-1.46385011 -0.87831007 -0.29277002]
+    [ 0.29277002  0.87831007  1.46385011]]
+"""
