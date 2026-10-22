@@ -22,3 +22,12 @@ print("Students with Average > 75 (1-indexed):", students_above_75)
 
 overall_max = marks.max()
 print("Overall Highest Mark:", overall_max)
+
+"""
+Output:
+    Student Averages: [85.         70.         91.         57.66666667]
+    Highest Mark per Student: [92 75 95 60]
+    Subject-wise Averages: [71.5  76.25 80.  ]
+    Students with Average > 75 (1-indexed): [1 3]
+    Overall Highest Mark: 95
+"""
